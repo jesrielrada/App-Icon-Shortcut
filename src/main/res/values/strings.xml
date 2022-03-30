@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="route_funds_deposit">window.pwa.navigate({ name: \'deposit-route\'})</string>
+    <string name="route_funds_withdrawal">window.pwa.navigate({ name: \'withdrawal-route\'})</string>
+    <string name="route_promotions">window.pwa.navigate({ name : \'promotions-route\', params : { category : \'%s\', id : \'%s\'}})</string>
+    <string name="route_login">window.pwa.navigate({ name: \'login-route\'})</string>
+
+</resources>
